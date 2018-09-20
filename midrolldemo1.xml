@@ -1,0 +1,80 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:noNamespaceSchemaLocation="vast.xsd">
+  <Ad id="510338">
+    <InLine>
+      <AdSystem version="2.0">AdMicro</AdSystem>
+      <AdTitle>In-Stream Video</AdTitle>
+      <Impression id="AdMicro">
+        <![CDATA[]]>
+      </Impression>
+      <Creatives>
+        <Creative sequence="1" AdID="">
+          <Linear>
+            <Duration>00:00:07</Duration>
+            <AdParameters/>
+            <TrackingEvents>
+              <Tracking event="start">
+                <![CDATA[//lg1.logging.admicro.vn/cpx_cms?dmn=http%3A%2F%2Fexample.vn%2F&zid=jmac6bb9&pli=jmac365w&cmpg=jmac19gv&items=jmac36fu&cat=%2fhome%2f&cov=101&pgid=1537433332734890749&uid=1528430057801804297]]>
+              </Tracking>
+              <Tracking event="midpoint">
+                <![CDATA[//lg1.logging.admicro.vn/cpx_cms?dmn=http%3A%2F%2Fexample.vn%2F&zid=jmac6bb9&pli=jmac365w&cmpg=jmac19gv&items=jmac36fu&cat=%2fhome%2f&cov=102&pgid=1537433332734890749&uid=1528430057801804297]]>
+              </Tracking>
+              <Tracking event="firstQuartile">
+                <![CDATA[//lg1.logging.admicro.vn/cpx_cms?dmn=http%3A%2F%2Fexample.vn%2F&zid=jmac6bb9&pli=jmac365w&cmpg=jmac19gv&items=jmac36fu&cat=%2fhome%2f&cov=103&pgid=1537433332734890749&uid=1528430057801804297]]>
+              </Tracking>
+              <Tracking event="thirdQuartile">
+                <![CDATA[//lg1.logging.admicro.vn/cpx_cms?dmn=http%3A%2F%2Fexample.vn%2F&zid=jmac6bb9&pli=jmac365w&cmpg=jmac19gv&items=jmac36fu&cat=%2fhome%2f&cov=104&pgid=1537433332734890749&uid=1528430057801804297]]>
+              </Tracking>
+              <Tracking event="complete">
+                <![CDATA[//lg1.logging.admicro.vn/cpx_cms?dmn=http%3A%2F%2Fexample.vn%2F&zid=jmac6bb9&pli=jmac365w&cmpg=jmac19gv&items=jmac36fu&cat=%2fhome%2f&cov=105&pgid=1537433332734890749&uid=1528430057801804297]]>
+              </Tracking>
+              <Tracking event="mute">
+                <![CDATA[//lg1.logging.admicro.vn/cpx_cms?dmn=http%3A%2F%2Fexample.vn%2F&zid=jmac6bb9&pli=jmac365w&cmpg=jmac19gv&items=jmac36fu&cat=%2fhome%2f&cov=106&pgid=1537433332734890749&uid=1528430057801804297]]>
+              </Tracking>
+              <Tracking event="unmute">
+                <![CDATA[//lg1.logging.admicro.vn/cpx_cms?dmn=http%3A%2F%2Fexample.vn%2F&zid=jmac6bb9&pli=jmac365w&cmpg=jmac19gv&items=jmac36fu&cat=%2fhome%2f&cov=107&pgid=1537433332734890749&uid=1528430057801804297]]>
+              </Tracking>
+              <Tracking event="pause">
+                <![CDATA[//lg1.logging.admicro.vn/cpx_cms?dmn=http%3A%2F%2Fexample.vn%2F&zid=jmac6bb9&pli=jmac365w&cmpg=jmac19gv&items=jmac36fu&cat=%2fhome%2f&cov=108&pgid=1537433332734890749&uid=1528430057801804297]]>
+              </Tracking>
+              <Tracking event="rewind">
+                <![CDATA[//lg1.logging.admicro.vn/cpx_cms?dmn=http%3A%2F%2Fexample.vn%2F&zid=jmac6bb9&pli=jmac365w&cmpg=jmac19gv&items=jmac36fu&cat=%2fhome%2f&cov=109&pgid=1537433332734890749&uid=1528430057801804297]]>
+              </Tracking>
+              <Tracking event="resume">
+                <![CDATA[//lg1.logging.admicro.vn/cpx_cms?dmn=http%3A%2F%2Fexample.vn%2F&zid=jmac6bb9&pli=jmac365w&cmpg=jmac19gv&items=jmac36fu&cat=%2fhome%2f&cov=110&pgid=1537433332734890749&uid=1528430057801804297]]>
+              </Tracking>
+              <Tracking event="fullscreen">
+                <![CDATA[//lg1.logging.admicro.vn/cpx_cms?dmn=http%3A%2F%2Fexample.vn%2F&zid=jmac6bb9&pli=jmac365w&cmpg=jmac19gv&items=jmac36fu&cat=%2fhome%2f&cov=111&pgid=1537433332734890749&uid=1528430057801804297]]>
+              </Tracking>
+              <Tracking event="collapse">
+                <![CDATA[//lg1.logging.admicro.vn/cpx_cms?dmn=http%3A%2F%2Fexample.vn%2F&zid=jmac6bb9&pli=jmac365w&cmpg=jmac19gv&items=jmac36fu&cat=%2fhome%2f&cov=112&pgid=1537433332734890749&uid=1528430057801804297]]>
+              </Tracking>
+              <Tracking event="collapse">
+                <![CDATA[//lg1.logging.admicro.vn/cpx_cms?dmn=http%3A%2F%2Fexample.vn%2F&zid=jmac6bb9&pli=jmac365w&cmpg=jmac19gv&items=jmac36fu&cat=%2fhome%2f&cov=113&pgid=1537433332734890749&uid=1528430057801804297]]>
+              </Tracking>
+              <Tracking event="close">
+                <![CDATA[//lg1.logging.admicro.vn/cpx_cms?dmn=http%3A%2F%2Fexample.vn%2F&zid=jmac6bb9&pli=jmac365w&cmpg=jmac19gv&items=jmac36fu&cat=%2fhome%2f&cov=114&pgid=1537433332734890749&uid=1528430057801804297]]>
+              </Tracking>
+
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickThrough>
+                <![CDATA[ https://pubads.g.doubleclick.net/pcs/click?xai=AKAOjsvk4lcF8MRfiHq1h8IGWJNVckl2D7XvuhfU02-QH4-81O_kvgBXNCCqGSWcVDTFGMJ4pLq24TrIoVDYZGTdiMz5alRg3URM9Kn90HzVnpta5cQw6s-6XYSvjtrCn_YwtJLuX16Fp3nmOhd9NemZiPrWCocx3qYf7IeYoFsn4vvUyiA_wPcAvQ-7b6cV7sX1hMw89kIRgXDOAsEGTBJTwA27M6G4EhSJmmSM7yQ-Utcwp1ibMFI&sig=Cg0ArKJSzOg9W1YKKZ_i&adurl=https://developers.google.com/interactive-media-ads/docs/vastinspector_dual
+                 ]]>
+              </ClickThrough>
+              <ClickTracking id="AdMicro">
+              </ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4">
+                <![CDATA[
+							https://redirector.gvt1.com/videoplayback/id/240e9a8fa1c2d3f6/itag/44/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fwebm/ctier/L/ip/0.0.0.0/ipbits/0/expire/1537454239/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/0CBB1AFB5D33502FB63F7E16111110950C1D247B.691FD489F9B24184BADFB1D42C8B48BD3F47D452/key/ck2/file/file.webm
+							]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+
+    </InLine>
+  </Ad>
+</VAST>
