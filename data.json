@@ -3,22 +3,37 @@
     "adscheduleid": "1234abcd",
     "client": "admicro",
     "schedule": {
-      "ad - slot - 1": {
-        "offset": "00:00:00",
-        "tag": "prerolldemo.xml"
+      "ad-slot-1": {
+        "offset": "start",
+        "tag": "http://media1.admicro.vn/cms/prerolldemo.xml",
+        "type": "nonlinear",
+        "skipoffset": 4,
+        "width": 640,
+        "height": 320
       },
-      "ad - slot - 2": {
+      "ad-slot-2": {
         "offset": "00:00:15",
-        "tag": "midrolldemo1.xml"
+        "tag": "http://media1.admicro.vn/cms/midrolldemo1.xml",
+        "width": 640,
+        "height": 320
       },
-      "ad - slot - 3": {
-        "offset": "00:00:20",
-        "tag": "midrolldemo2.xml"
+      "ad-slot-3": {
+        "offset": "80%",
+        "tag": "http://media1.admicro.vn/cms/midrolldemo2.xml",
+        "width": 640,
+        "height": 320
       },
-      "ad - slot - 4": {
-        "offset": "00:00:30",
-        "tag": "postrolldemo.xml"
+      "ad-slot-4": {
+        "offset": "end",
+        "tag": "http://media1.admicro.vn/cms/postrolldemo.xml",
+        "width": 640,
+        "height": 320
       }
     }
+  },
+  "rules": {
+    "startOn": 2,
+    "timeBetweenAds": 300,
+    "startOnSeek": "pre"
   }
 }
